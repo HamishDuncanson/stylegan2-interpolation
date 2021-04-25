@@ -2,9 +2,8 @@ Generates an interpolation through the latent space of a pretrained StyleGAN2 mo
 
 Model weights are for the [official PyTorch implementation of StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch).
 
-## Imagenet
+## ImageNet
 
-- Dataset: ImageNet
 - Resolution: 512x512
 - Author: [Shawn Presser]()
 - [Source](https://twitter.com/theshawwn/status/1244081581347598341)
@@ -12,7 +11,6 @@ Model weights are for the [official PyTorch implementation of StyleGAN2-ADA](htt
 
 ## Cat
 
-- Dataset: LSUN Cat
 - Resolution: 256x256
 - Author: NVIDIA
 - [Source](https://github.com/NVlabs/stylegan2)
