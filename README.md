@@ -1,6 +1,6 @@
 Generates an interpolation through the latent space of a pretrained StyleGAN2 model.
 
-Model weights are for the [official PyTorch implementation of StyleGAN2-ADA]()https://github.com/NVlabs/stylegan2-ada-pytorch).
+Model weights are for the [official PyTorch implementation of StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch).
 
 # Pretrained models examples
 
