@@ -2,8 +2,6 @@ Generates an interpolation through the latent space of a pretrained StyleGAN2 mo
 
 Model weights are for the [official PyTorch implementation of StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch).
 
-# Pretrained models examples
-
 ## Imagenet
 
 - Dataset: ImageNet
